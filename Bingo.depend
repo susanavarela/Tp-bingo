@@ -1,0 +1,139 @@
+# depslib dependency file v1.0
+1603832859 source:c:\users\tomas_yn8pznh\desktop\tp bingo\bingo\carton.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<Windows.h>
+	"partida.h"
+	"jugador.h"
+	"carton.h"
+
+1603830775 c:\users\tomas_yn8pznh\desktop\tp bingo\bingo\partida.h
+	"carton.h"
+	"jugador.h"
+
+1603832832 c:\users\tomas_yn8pznh\desktop\tp bingo\bingo\carton.h
+	"partida.h"
+	"jugador.h"
+
+1603830458 c:\users\tomas_yn8pznh\desktop\tp bingo\bingo\jugador.h
+	"carton.h"
+	"partida.h"
+
+1603839657 source:c:\users\tomas_yn8pznh\desktop\tp bingo\bingo\jugador.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<Windows.h>
+	"partida.h"
+	"jugador.h"
+	"carton.h"
+
+1603830775 source:c:\users\tomas_yn8pznh\desktop\tp bingo\bingo\partida.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<Windows.h>
+	"partida.h"
+	"jugador.h"
+	"carton.h"
+
+1603840189 source:c:\users\tomas_yn8pznh\desktop\tp bingo\bingo\main.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<Windows.h>
+	"partida.h"
+	"jugador.h"
+	"carton.h"
+	"ranking.h"
+
+1603830458 c:\users\tomas_yn8pznh\desktop\tp bingo\bingo\ranking.h
+	"carton.h"
+	"jugador.h"
+	"partida.h"
+
+1603840278 source:c:\users\tomas_yn8pznh\desktop\tp bingo\bingo\ranking.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<Windows.h>
+	"partida.h"
+	"jugador.h"
+	"carton.h"
+	"ranking.h"
+
+1603943603 source:c:\users\usuario\desktop\tp final\bingo (1)\carton.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<Windows.h>
+	"partida.h"
+	"jugador.h"
+	"carton.h"
+
+1603943756 c:\users\usuario\desktop\tp final\bingo (1)\partida.h
+	"carton.h"
+	"jugador.h"
+
+1603818432 c:\users\usuario\desktop\tp final\bingo (1)\carton.h
+	"partida.h"
+	"jugador.h"
+
+1603943620 c:\users\usuario\desktop\tp final\bingo (1)\jugador.h
+	"carton.h"
+	"partida.h"
+
+1603946033 source:c:\users\usuario\desktop\tp final\bingo (1)\main.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<Windows.h>
+	"partida.h"
+	"jugador.h"
+	"carton.h"
+	"ranking.h"
+
+1603943602 c:\users\usuario\desktop\tp final\bingo (1)\ranking.h
+	"carton.h"
+	"jugador.h"
+	"partida.h"
+
+1603945999 source:c:\users\usuario\desktop\tp final\bingo (1)\partida.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<Windows.h>
+	"partida.h"
+	"jugador.h"
+	"carton.h"
+
+1603944084 source:c:\users\usuario\desktop\tp final\bingo (1)\jugador.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<Windows.h>
+	"partida.h"
+	"jugador.h"
+	"carton.h"
+
+1603943992 source:c:\users\usuario\desktop\tp final\bingo (1)\ranking.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<Windows.h>
+	"partida.h"
+	"jugador.h"
+	"carton.h"
+	"ranking.h"
+
